@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.myapplication.ai
 
 class Wisata {
     var nama:String ?= null
